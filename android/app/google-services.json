@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "253988151727",
+    "project_id": "baocaowdd-b045d",
+    "storage_bucket": "baocaowdd-b045d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253988151727:android:3c2914db25554966168f5a",
+        "android_client_info": {
+          "package_name": "com.example.bao_cao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253988151727-2ggeq8l2bfg8f7meimn5eoe9257l43in.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEJKadoV0AeSr1lQ0LERZgFppopZH7DYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253988151727-2ggeq8l2bfg8f7meimn5eoe9257l43in.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
